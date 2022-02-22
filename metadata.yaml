@@ -1,5 +1,5 @@
 homepage: "http://www.analytics-engineers.com"
 versions:
   # Latest version
-  - sha: xxx
+  - sha: f79bccb02b56eee14ad8a507e780e87697346870
     changeNotes: Initial Version
